@@ -1,0 +1,21 @@
+{
+  "full_name": "Shubham Shekhar",
+  "name": "Shubham",
+  "current_role": "Data and Analytics ETL Developer",
+  "location": "New Delhi, India",
+  "email": "in.shubhamshekhar@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/shubham-coder/",
+  "specialties": [
+    "Python",
+    "AI/ML",
+    "GenAI"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "Galgotias college of engineering and technology",
+      "year": "2024"
+    }
+  ]
+}
